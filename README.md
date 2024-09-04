@@ -1,0 +1,1 @@
+A movie recommendation website which recommends similar 5 movies that you search. Soon going to deploy this site. For now included model that recommends movies and the front-end part of website build using python dash library
